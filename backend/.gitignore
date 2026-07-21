@@ -2,7 +2,13 @@ venv/
 .env
 __pycache__/
 *.pyc
+<<<<<<< HEAD
 chroma-db/
+=======
+requirements.txt
+chroma_db/
+ingest_knowledge_base.py
+>>>>>>> da3333c (updated .gitignore)
 test_gemini.py
 test_models.py
 requirements.txt
