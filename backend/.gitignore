@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 test_gemini.py
 test_models.py
+requirements.txt
