@@ -2,6 +2,7 @@ venv/
 .env
 __pycache__/
 *.pyc
+chroma-db/
 test_gemini.py
 test_models.py
 requirements.txt
