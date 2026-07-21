@@ -1,0 +1,37 @@
+ACCOUNT SETTINGS
+
+Customers can manage their account settings anytime.
+
+Profile Settings:
+- Change name, email, phone number
+- Update profile picture (max 2MB)
+- Change display language
+
+Security Settings:
+- Enable Two-Factor Authentication (2FA)
+- View recent login activity
+- Change password
+- Manage active sessions
+
+Notification Preferences:
+- Email notifications (on/off)
+
+Privacy Settings:
+- Manage data sharing preferences
+- Request data export
+- Request account deletion (30-day retention)
+
+How to Access:
+1. Log in to account
+2. Click profile icon (top right)
+3. Select "Settings" from dropdown
+4. Navigate to desired section
+
+Important Notes:
+- Some changes require email verification
+- 2FA setup requires authenticator app
+- Changes take effect immediately
+- Account deletion is irreversible after 30 days
+
+Support Response:
+"To update your account settings, go to Settings > Profile in your dashboard. You can change your name, email, password, and notification preferences there. Let me know if you need help with any specific changes."

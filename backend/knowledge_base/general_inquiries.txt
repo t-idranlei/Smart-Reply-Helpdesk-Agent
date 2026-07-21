@@ -1,0 +1,23 @@
+GENERAL INQUIRIES
+
+Company Information:
+
+- Office Hours: Monday-Friday, 9AM-6PM EST
+- Support Email: support@examplecompany.com
+- Contact Number: 02-1234-5678
+
+Service Information:
+
+- Check our website for updates
+- Follow us on social media
+- Subscribe to our newsletter
+
+Common Questions:
+
+"What are your hours?" → 9AM-6PM EST, Monday-Friday
+"How do I contact support?" → support@examplecompany.com or 02 1234-5678
+"Where can I find updates?" → Website or social media
+
+Support Response:
+
+"Thank you for reaching out. Our support team is available Monday-Friday, 9AM-6PM EST. Feel free to reply to this email and we'll assist you."

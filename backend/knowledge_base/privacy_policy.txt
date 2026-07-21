@@ -1,0 +1,41 @@
+PRIVACY POLICY
+
+We value user privacy and are committed in protecting user's personal data.
+
+What We Collect:
+- Personal Information (Name, Email, Phone Number).
+- Account activity and data usage.
+- Support interaction history.
+
+Ho we use Data:
+
+- Account management and authentication.
+- User support and issue resolution.
+- Analytics
+- User satisfaction and service improvement.
+
+Data Security:
+
+- Encrypted Storage (AES-256)
+- Regular security audits
+- Secure HTTPS transmission
+- exclusive access to authorized personnel only.
+
+Data Sharing:
+- We DO NOT sell or share user data.
+
+
+Data Retention:
+- Active Accounts: Data retained while active.
+- Dormant/Inactive Account: Data will be deleted after 180 days of inactivity.
+- Deleted accounts: Data delete within 14 days after account deletion (irreversible action).
+
+Breach Notification:
+
+- We will notify affected customers within 72 hours
+- Notifications sent via email and account notification
+- We will provide details of the breach and steps taken
+
+Support Response:
+
+"Thank you for your privacy concern. You have the right to access, correct, or delete your personal data. Please let me know what you'd like to do and I'll guide you through the process."

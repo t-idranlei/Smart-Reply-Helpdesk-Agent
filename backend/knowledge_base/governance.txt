@@ -1,0 +1,24 @@
+GOVERNANCE & COMPLIANCE
+
+Account Policies:
+
+- One account per user (shared accounts not allowed)
+- Password must be at least 8 characters with letters and numbers
+- Accounts lock after 5 failed login attempts (unlock after 15 minutes)
+- Session expires after 30 minutes of inactivity
+
+Security:
+
+- 2FA available for all accounts
+- Suspicious activity alerts sent via email
+- Regular security audits performed
+
+Escalation Levels:
+
+- Level 1: Support agent handles directly
+- Level 2: Manager review required
+- Level 3: Compliance/Legal team involved
+
+Support Response:
+
+"Our security policies are in place to protect your account. If you have specific questions about account access, security, or escalation procedures, please let me know and I'll help."
